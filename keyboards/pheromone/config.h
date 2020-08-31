@@ -51,8 +51,8 @@
 #endif
 
 /*sequence for ctrl, win and alt*/
-#define MOD_SEQUENCE_CAW /*normally for macos users*/
-// #define MOD_SEQUENCE_CWA /*normally for windows users*/
+// #define MOD_SEQUENCE_CAW /*normally for macos users*/
+#define MOD_SEQUENCE_CWA /*normally for windows users*/
 
 /*other sequences*/
 //#define MOD_SEQUENCE_WAC
